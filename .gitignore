@@ -28,6 +28,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+launch.json
 
 # env files (can opt-in for commiting if needed)
 .env*
