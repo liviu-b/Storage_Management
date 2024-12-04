@@ -1,5 +1,6 @@
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
+### Frontend
 - React 19
 - Next.js 15
 - Appwrite
